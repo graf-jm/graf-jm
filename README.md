@@ -1,4 +1,4 @@
-Welcome to my Github profile!
+Welcome to my GitHub profile!
 -       interests  <- c("health_administrative_data_science", "neuroimmunology", "multiple_sclerosis")
 -       Mastodon  <- @jonasgraf@scholar.social
 -       Twitter   <- @Jonas_Graf_MD
