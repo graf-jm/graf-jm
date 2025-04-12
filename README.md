@@ -1,7 +1,7 @@
 Welcome to my GitHub profile!
--       interests  <- c("health_administrative_data_science", "neuroimmunology", "multiple_sclerosis")
+-       interests  <- c("health_administrative_data_science", "neuroimmunology", "multiple_sclerosis", "pharmacoepidemiology")
 -       Mastodon  <- @jonasgraf@scholar.social
--       Twitter   <- @Jonas_Graf_MD
+-       ORCiD   <- 0000-0002-4249-4665
 
 <!---
 graf-jm/graf-jm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
